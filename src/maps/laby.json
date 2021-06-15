@@ -161,7 +161,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"..\/tilsets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -174,7 +174,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"floortileset.png",
+         "image":"..\/tilsets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -187,7 +187,7 @@
         {
          "columns":13,
          "firstgid":321,
-         "image":"plant repack.png",
+         "image":"..\/tilsets\/plant repack.png",
          "imageheight":416,
          "imagewidth":416,
          "margin":0,
@@ -1722,7 +1722,7 @@
         {
          "columns":32,
          "firstgid":490,
-         "image":"base_out_atlas.png",
+         "image":"..\/..\/laby\/base_out_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1898,7 +1898,7 @@
         {
          "columns":23,
          "firstgid":1514,
-         "image":"environnement1.png",
+         "image":"..\/tilsets\/environnement1.png",
          "imageheight":958,
          "imagewidth":760,
          "margin":0,
@@ -1911,7 +1911,7 @@
         {
          "columns":17,
          "firstgid":2181,
-         "image":"environnement2.png",
+         "image":"..\/tilsets\/environnement2.png",
          "imageheight":329,
          "imagewidth":568,
          "margin":0,
@@ -1943,7 +1943,7 @@
         {
          "columns":8,
          "firstgid":2351,
-         "image":"celiannatilea5.png",
+         "image":"..\/tilsets\/celiannatilea5.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,

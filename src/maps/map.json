@@ -451,7 +451,7 @@
         {
          "columns":100,
          "firstgid":1,
-         "image":"assets.png",
+         "image":"..\/tilsets\/assets.png",
          "imageheight":3200,
          "imagewidth":3200,
          "margin":0,
@@ -2194,7 +2194,7 @@
         {
          "columns":8,
          "firstgid":10001,
-         "image":"floortileset.png",
+         "image":"..\/tilsets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -2208,7 +2208,7 @@
         {
          "columns":16,
          "firstgid":10065,
-         "image":"tilesets_deviant_milkian_1.png",
+         "image":"..\/tilsets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -2222,7 +2222,7 @@
         {
          "columns":16,
          "firstgid":10321,
-         "image":"19_Hospital_32x32.png",
+         "image":"..\/tilsets\/19_Hospital_32x32.png",
          "imageheight":3520,
          "imagewidth":512,
          "margin":0,
@@ -2345,7 +2345,7 @@
         {
          "columns":8,
          "firstgid":12081,
-         "image":"celiannatilea5.png",
+         "image":"..\/tilsets\/celiannatilea5.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -2358,7 +2358,7 @@
         {
          "columns":13,
          "firstgid":12209,
-         "image":"plant repack.png",
+         "image":"..\/tilsets\/plant repack.png",
          "imageheight":416,
          "imagewidth":416,
          "margin":0,
@@ -2597,7 +2597,7 @@
         {
          "columns":32,
          "firstgid":12378,
-         "image":"terrain_atlas.png",
+         "image":"..\/tilsets\/terrain_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -3421,7 +3421,7 @@
         {
          "columns":23,
          "firstgid":13402,
-         "image":"environnement1.png",
+         "image":"..\/tilsets\/environnement1.png",
          "imageheight":958,
          "imagewidth":760,
          "margin":0,
