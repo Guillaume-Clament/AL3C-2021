@@ -8,12 +8,6 @@
          "id":9,
          "name":"start",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"script",
-                 "type":"string",
-                 "value":"script.js"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":98,
