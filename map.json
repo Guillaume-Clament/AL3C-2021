@@ -80,7 +80,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/laby\/laby.json"
+                 "value":"laby\/laby.json"
                 }],
          "type":"tilelayer",
          "visible":true,
