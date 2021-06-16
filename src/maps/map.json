@@ -80,7 +80,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"@\/ethics-group\/event\/laby"
+                 "value":"\/@\/ethics-group\/event\/laby"
                 }],
          "type":"tilelayer",
          "visible":true,
