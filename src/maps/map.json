@@ -83,7 +83,7 @@
                  "value":"salleDePauseA"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -101,7 +101,7 @@
                  "value":"\/@\/ethics-group\/event\/laby"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":120,
          "x":0,
          "y":0
@@ -334,7 +334,7 @@
          "name":"Exterieur",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -440,11 +440,11 @@
                  "y":0
                 }],
          "name":"ZoneAL3C",
-         "offsetx":0,
+         "offsetx":64,
          "offsety":-32,
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -455,7 +455,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
